@@ -2,7 +2,9 @@
 Simple raindrop catching Java game built with LibGDX library.
 **This project is archived and serves as a showcase. I am no longer maintaining this project.**
 
-## Screenshot of the game
+## Info
+Game logic/code can be found at https://github.com/alarconm96/libgdx-demo-drop/blob/main/core/src/com/badlogic/drop/GameScreen.java
+
 ![Game image](screenshots/drop.png)
 
 
